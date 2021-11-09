@@ -1,0 +1,147 @@
+header {
+    background-color: rgb(230, 230, 230);
+}
+
+.navi, .dav  {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    width: 95%; 
+    margin: 0 auto; 
+    padding: 20px 0;
+}
+
+#div1, #naviga {
+    display: flex; 
+    align-items: center;
+}
+
+#gambar1 {
+    width: 20px;
+    height: 20px;
+}
+
+.H2, .h44 {
+    margin-right: 50px;
+}
+
+.ull, #ulll {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+}
+
+.li1, .li2,.li3 {
+    margin: 0 20px;
+}
+
+#hraf {
+    text-decoration: none; 
+    color: black;
+}
+
+#hrr, #foottt {
+    margin: 0; 
+    padding: 0;
+}
+
+#sectionn1 {
+    width: 800px;
+}
+
+.nnavv, #imgp {
+    display: flex;
+    justify-content: start;
+}
+
+.hh2, #pp, .pid, .kelasss, #kennybos, #billingadd, 
+.bostick, #shiing, .ups, .payment, #ending {
+    margin: 15px 0;
+}
+
+.hh2 {
+    font-size: smaller;
+    font-weight: lighter;
+}
+
+#pp {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#gambarr2 {
+    width: 80px;
+    height: 80px;
+}
+
+.hh2 {
+    font-size: x-large;
+    font-weight: bolder;
+    margin: 20px 0;
+}
+
+#davvv {
+    display: grid; 
+    grid-template-columns: auto auto; 
+    grid-row-gap: 10px;
+}
+
+.alamat {
+    text-decoration: underline; 
+    color: blue;
+}
+
+.gambarrr {
+    width: 35px;
+    height: 35px;
+}
+
+.sectionnn {
+    background-color: rgb(230, 230, 230); 
+    padding: 30px;
+}
+
+#hh2, #subtotal, .angka, #subtotal, .dolar, #taxes
+.tddolar {
+    padding: 10px 0;
+}
+
+.tabell {
+    width: 270px;
+}
+
+.angka, .dolar, .tddolar, #tdd {
+    text-align: end;
+}
+
+.button {
+    padding: 2px 15px;
+}
+
+.hrrr {
+    margin: 5px 0;
+}
+
+.kakii {
+    display: flex; 
+    justify-content: space-between; 
+    width: 95%; 
+    margin: 0 auto; 
+    padding: 40px 0;
+}
+
+.categoryx, .categoryy, .categoryz {
+    margin: 0 10px;
+}
+
+#subscribe {
+    padding: 5px; 
+    background-color: grey; 
+    font-weight: bold; 
+    color: white;
+}
+
+.inputtype {
+    padding: 5px;
+}
